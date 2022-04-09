@@ -1,0 +1,13 @@
+.progress {
+  display: flex;
+  position: relative;
+}
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+}

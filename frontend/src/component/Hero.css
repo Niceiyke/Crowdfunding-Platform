@@ -1,0 +1,39 @@
+.hero-area {
+  align-items: center;
+  justify-content: center;
+}
+.hero-area-one .hero-text .title {
+  font-size: 100px;
+  line-height: 1;
+  letter-spacing: -4px;
+  margin-bottom: 40px;
+}
+
+.hero-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -310px;
+  position: relative;
+  z-index: 3;
+  padding: 0 40px;
+}
+
+.hero-text {
+  padding-top: 120px;
+  padding-bottom: 390px;
+  text-align: center;
+  background-color: #eaf5e7;
+  background-position: 50%;
+  position: relative;
+  z-index: 1;
+}
+.hero-area .image-small {
+  border-top-left-radius: 0;
+  border-radius: 175px;
+}
+.hero-area .btn {
+  max-width: 130px;
+  height: 60px;
+  border-radius: 25px;
+}
